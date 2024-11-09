@@ -51,7 +51,8 @@ section > * {
 
 section > p:nth-child(2){
     color: hsl(0, 0%, 7%);
-    font-weight: 800;
+    font-weight: 600;
+    font-family: "fighttree", sans-serif;
 }
 
 section > p:nth-child(4){
